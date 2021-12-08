@@ -2,7 +2,7 @@
   <!-- <div>
         <img src="@/assets/logo.png" alt="">
         <HelloWorld msg='asdfasfd'/>
-    </div> -->
+    </div> -->   
 
   <el-container>
     <el-aside width="200px">Aside</el-aside>
